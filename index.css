@@ -1,0 +1,12 @@
+.js-title {
+  color: blue;
+}
+
+.form,
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
